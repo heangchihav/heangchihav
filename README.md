@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Heang Chihav
 
 <div align="center">
   
@@ -29,9 +29,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=FF6B35)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FF8E53)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=FFA07A)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=FF6B35)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=FF8E53)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=FFA07A)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FF6B35)
 
 </div>
 
@@ -39,10 +37,9 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FF6B35)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=FF8E53)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=FFA07A)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=FF6B35)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white&labelColor=FF8E53)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=FF8E53)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white&labelColor=FFA07A)
 
 </div>
 
@@ -51,11 +48,15 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FF6B35)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=FF8E53)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=FFA07A)
+![Hono](https://img.shields.io/badge/-Hono-FF4785?style=for-the-badge&logo=hono&logoColor=white&labelColor=FF6B35)
+![Turborepo](https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white&labelColor=FF8E53)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=FF6B35)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=FF8E53)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=FFA07A)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=FF6B35)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white&labelColor=FF8E53)
+![Drizzle](https://img.shields.io/badge/-Drizzle-0066FF?style=for-the-badge&logo=drizzle&logoColor=white&labelColor=FFA07A)
+![DragonDB](https://img.shields.io/badge/-DragonDB-FF4B4B?style=for-the-badge&logo=dragondb&logoColor=white&labelColor=FF6B35)
 
 </div>
 
@@ -66,8 +67,9 @@
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=FF8E53)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=FFA07A)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=FF6B35)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=FF8E53)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white&labelColor=FFA07A)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=FF8E53)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FFA07A)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=FF6B35)
 
 </div>
 
@@ -77,22 +79,22 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B35&icon_color=FF8E53&text_color=FFA07A&border_color=FF6B35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heangchihav&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF6B35&icon_color=FF8E53&text_color=FFA07A&border_color=FF6B35"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFA07A&border_color=FF6B35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heangchihav&layout=compact&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFA07A&border_color=FF6B35"/>
   
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF8E53&currStreakLabel=FFA07A&sideNums=FFA07A&currStreakNum=FF6B35&dates=FFA07A&sideLabels=FF8E53"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heangchihav&theme=radical&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FF8E53&currStreakLabel=FFA07A&sideNums=FFA07A&currStreakNum=FF6B35&dates=FFA07A&sideLabels=FF8E53"/>
   
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=FF6B35&line=FF8E53&point=FFA07A&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heangchihav&bg_color=0D1117&color=FF6B35&line=FF8E53&point=FFA07A&area=true&hide_border=true"/>
   
 </div>
 
@@ -102,7 +104,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=heangchihav&theme=radical&no-bg=true&no-frame=true&row=1&column=7&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues,Followers"/>
   
 </div>
 
@@ -182,4 +184,4 @@ System Design          ███████████████████
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-</div>
+</div>v
