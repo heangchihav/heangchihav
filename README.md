@@ -110,18 +110,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFA07A&icon_color=FF8E53&border_color=FF6B35)](https://github.com/yourusername/project1)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&bg_color=0D1117&title_color=FF6B35&text_color=FFA07A&icon_color=FF8E53&border_color=FF6B35)](https://github.com/yourusername/project2)
-
-</div>
-
----
-
 ## 💼 Professional Skills Matrix
 
 <div align="center">
@@ -180,8 +168,8 @@ System Design          ███████████████████
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
   
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=FF6B35&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=heangchihav&style=for-the-badge&color=FF6B35&label=Profile+Views"/>
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
-</div>v
+</div>
